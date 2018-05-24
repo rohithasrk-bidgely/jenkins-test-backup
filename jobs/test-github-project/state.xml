@@ -1,0 +1,20 @@
+<?xml version='1.1' encoding='UTF-8'?>
+<jenkins.branch.OrganizationFolder_-State plugin="branch-api@2.0.20">
+  <actions>
+    <entry>
+      <string>org.jenkinsci.plugins.github_branch_source.GitHubSCMNavigator::https://api.github.com::test-github-project</string>
+      <list>
+        <jenkins.scm.api.metadata.ObjectMetadataAction plugin="scm-api@2.2.7">
+          <objectUrl>https://github.com/test-github-project</objectUrl>
+        </jenkins.scm.api.metadata.ObjectMetadataAction>
+        <org.jenkinsci.plugins.github__branch__source.GitHubOrgMetadataAction plugin="github-branch-source@2.3.4">
+          <avatar>https://avatars0.githubusercontent.com/u/24517802?v=4</avatar>
+        </org.jenkinsci.plugins.github__branch__source.GitHubOrgMetadataAction>
+        <org.jenkinsci.plugins.github__branch__source.GitHubLink plugin="github-branch-source@2.3.4">
+          <iconClassName>icon-github-logo</iconClassName>
+          <url>https://github.com/test-github-project</url>
+        </org.jenkinsci.plugins.github__branch__source.GitHubLink>
+      </list>
+    </entry>
+  </actions>
+</jenkins.branch.OrganizationFolder_-State>
