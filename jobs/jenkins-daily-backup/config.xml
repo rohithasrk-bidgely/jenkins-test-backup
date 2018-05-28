@@ -8,7 +8,7 @@
     <configVersion>2</configVersion>
     <userRemoteConfigs>
       <hudson.plugins.git.UserRemoteConfig>
-        <url>https://github.com/rohithasrk-bidgely/jenkins-backup.git</url>
+        <url>https://github.com/rohithasrk-bidgely/jenkins-backup-and-restore.git</url>
         <credentialsId>aa11f506-0ba9-4a8a-8374-50771eecd32f</credentialsId>
       </hudson.plugins.git.UserRemoteConfig>
     </userRemoteConfigs>
