@@ -1,9 +1,9 @@
 <?xml version='1.1' encoding='UTF-8'?>
 <user>
-  <fullName>Rohith ASRK</fullName>
+  <fullName>rohith.asrk</fullName>
   <properties>
     <jenkins.security.ApiTokenProperty>
-      <apiToken>{AQAAABAAAAAwZer2IaWGUeFonjUgbXRK4MpILMI/L324sEXDMYvTwV68wUXssQaRIc0Wuo87m0eco4Iu5mZFtbvS6J2EdMbrcQ==}</apiToken>
+      <apiToken>{AQAAABAAAAAwo57QKIoDRs0/0C9SW2LKRDcYugNqRO+YWHTRGI8vHv80SEoAMDE+uO9sDk3RctzFMEg8X+lxYQRDC2naHsS6Ug==}</apiToken>
     </jenkins.security.ApiTokenProperty>
     <com.cloudbees.plugins.credentials.UserCredentialsProvider_-UserCredentialsProperty plugin="credentials@2.1.16">
       <domainCredentialsMap class="hudson.util.CopyOnWriteMap$Hash"/>
@@ -31,17 +31,8 @@
     <hudson.search.UserSearchProperty>
       <insensitiveSearch>true</insensitiveSearch>
     </hudson.search.UserSearchProperty>
-    <hudson.security.HudsonPrivateSecurityRealm_-Details>
-      <passwordHash>#jbcrypt:$2a$10$0cJDmeQNKeIdG31PulZry.PQV4Y7AiY/gZGbKEX7Z7uG32wwk0BQq</passwordHash>
-    </hudson.security.HudsonPrivateSecurityRealm_-Details>
     <hudson.tasks.Mailer_-UserProperty plugin="mailer@1.21">
       <emailAddress>rohith.asrk@gmail.com</emailAddress>
     </hudson.tasks.Mailer_-UserProperty>
-    <jenkins.security.LastGrantedAuthoritiesProperty>
-      <roles>
-        <string>authenticated</string>
-      </roles>
-      <timestamp>1527143554939</timestamp>
-    </jenkins.security.LastGrantedAuthoritiesProperty>
   </properties>
 </user>
