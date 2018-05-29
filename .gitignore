@@ -1,0 +1,13 @@
+queue.xml
+*.jpi
+logs
+.ssh
+.java
+.oracle_jre_usage
+fingerprints
+*.key
+secrets
+workspace
+updates
+.bash_history
+.viminfo
