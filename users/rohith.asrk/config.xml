@@ -3,14 +3,8 @@
   <fullName>rohith.asrk</fullName>
   <properties>
     <jenkins.security.ApiTokenProperty>
-      <apiToken>{AQAAABAAAAAwo57QKIoDRs0/0C9SW2LKRDcYugNqRO+YWHTRGI8vHv80SEoAMDE+uO9sDk3RctzFMEg8X+lxYQRDC2naHsS6Ug==}</apiToken>
+      <apiToken>{AQAAABAAAABwIIg+CRbm94zsioDCvsNg/YnfdCNK5B9QHbeBRlp6OlZ/TrNtYBpa0OEJjGl/7fmGNNoNH50svXWpxSHjUuDcaid+TumMquTgkozHCNFx0Ht6NQ1aYTzRX3YCQZJ+3r6W5ogyyZdsMqO1yABdEYvQ1gQz6Se6XYY+uWp11Cvb+EM=}</apiToken>
     </jenkins.security.ApiTokenProperty>
-    <com.cloudbees.plugins.credentials.UserCredentialsProvider_-UserCredentialsProperty plugin="credentials@2.1.16">
-      <domainCredentialsMap class="hudson.util.CopyOnWriteMap$Hash"/>
-    </com.cloudbees.plugins.credentials.UserCredentialsProvider_-UserCredentialsProperty>
-    <hudson.plugins.emailext.watching.EmailExtWatchAction_-UserProperty plugin="email-ext@2.62">
-      <triggers/>
-    </hudson.plugins.emailext.watching.EmailExtWatchAction_-UserProperty>
     <hudson.model.MyViewsProperty>
       <views>
         <hudson.model.AllView>
@@ -22,17 +16,11 @@
         </hudson.model.AllView>
       </views>
     </hudson.model.MyViewsProperty>
-    <org.jenkinsci.plugins.displayurlapi.user.PreferredProviderUserProperty plugin="display-url-api@2.2.0">
-      <providerId>default</providerId>
-    </org.jenkinsci.plugins.displayurlapi.user.PreferredProviderUserProperty>
     <hudson.model.PaneStatusProperties>
       <collapsed/>
     </hudson.model.PaneStatusProperties>
     <hudson.search.UserSearchProperty>
       <insensitiveSearch>true</insensitiveSearch>
     </hudson.search.UserSearchProperty>
-    <hudson.tasks.Mailer_-UserProperty plugin="mailer@1.21">
-      <emailAddress>rohith.asrk@gmail.com</emailAddress>
-    </hudson.tasks.Mailer_-UserProperty>
   </properties>
 </user>
