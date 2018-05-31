@@ -33,9 +33,7 @@
   <concurrentBuild>false</concurrentBuild>
   <builders>
     <hudson.tasks.Shell>
-      <command>./jenkins-backup.sh
-
-echo $BUILD_USER</command>
+      <command>./jenkins-backup.sh</command>
     </hudson.tasks.Shell>
   </builders>
   <publishers/>
