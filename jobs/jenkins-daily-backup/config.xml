@@ -33,7 +33,10 @@
   <concurrentBuild>false</concurrentBuild>
   <builders>
     <hudson.tasks.Shell>
-      <command>./jenkins-backup.sh</command>
+      <command>./jenkins-backup.sh
+
+echo $EXECUTOR_NUMBER
+</command>
     </hudson.tasks.Shell>
   </builders>
   <publishers/>
